@@ -212,4 +212,4 @@ Finalmente, el manejo adecuado de fuentes de texto es esencial para la comunicac
 
 * González, R. C., & Woods, R. E. (2018). *Digital Image Processing*. Pearson.
 
-* https://javiergarcialara.blogspot.com/2017/03/conceptos-de-graficacion-en-2d.html
+* Lara, J. G. (s. f.). Conceptos de: graficación en 2D, transformación bidimensional, traslación, escalación, rotación y sesgado. 
