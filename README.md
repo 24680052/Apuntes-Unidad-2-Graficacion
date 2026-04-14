@@ -144,6 +144,13 @@ Ventaja clave:
 
 * Control local: modificar un punto no afecta toda la curva
 
+
+## Ejemplo de animacion 2D
+
+
+<img width="834" height="413" alt="image" src="https://github.com/user-attachments/assets/a1c38e58-4c0c-4b53-8d1e-b90f06804a47" />
+
+
 ---
 
 ## 2.4 Fractales
